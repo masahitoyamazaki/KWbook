@@ -38,3 +38,7 @@ python ising_ed.py               # スクリプト版
 ```
 
 図は同じフォルダの `figures/` に PDF として出力されます．
+
+## ライセンス
+
+コードは [MIT License](LICENSE) のもとで公開しています．
